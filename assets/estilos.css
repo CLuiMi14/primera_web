@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#precio_total {
+color: blue;
+
+}
+h3 {
+    color: gray;
+    line-height: 3%;
+}
+.fondo_imagen {
+    background-color: gray;    
+}
+button {
+    height: 60px ;
+    width: 240px;
+    background-color: rgba(29,114,176);
+    color: white;
+    font-size: 20px;
+}
